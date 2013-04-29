@@ -21,6 +21,7 @@
   },
 
   "dependencies": {
+    "jsts": "*"
   },
   
   "devDependencies": {
