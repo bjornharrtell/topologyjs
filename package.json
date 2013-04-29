@@ -1,0 +1,37 @@
+{
+  "name":        "topology.js",
+  "version":     "0.0.1",
+
+  "author":      "Björn Harrtell",
+
+  "keywords":    [
+    "topology"
+  ],
+
+  "description": "Topology implementation in CoffeScript ",
+
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://github.com/bjornharrtell/topologyjs/raw/master/LICENSE"
+  }],
+
+  "repository" : {
+    "type": "git",
+    "url":  "https://github.com/bjornharrtell/topologyjs.git"
+  },
+
+  "dependencies": {
+  },
+  
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+
+  "engines": {
+    "node": ">= 0.8.x",
+    "npm":  ">= 1.1.x"
+  }
+}
+
+

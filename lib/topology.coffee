@@ -18,3 +18,5 @@ class Topology
     addPoint: (point) ->
         
         # create node from point
+
+module.exports = Topology
