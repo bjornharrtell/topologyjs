@@ -1,6 +1,6 @@
-topologyjs
-==========
+# topology.js
 
-Topology implementation in CoffeScript
+ISO SQL/MM Topology implementation in CoffeScript
 
 DISCLAIMER: Not even close to be remotely useful yet.
+
