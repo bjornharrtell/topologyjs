@@ -4,5 +4,5 @@ Topology = require('../lib').Topology
 describe 'Topology', ->
   describe 'constructor', ->
     it 'should be constructable', ->
-      topology = new Topology()
+      topology = new Topology
       should.exist(topology)

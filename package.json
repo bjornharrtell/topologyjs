@@ -21,6 +21,7 @@
   },
 
   "dependencies": {
+    "javascript.util": "0.11.0",
     "jsts": "*"
   },
   
@@ -30,8 +31,7 @@
   },
 
   "engines": {
-    "node": ">= 0.8.x",
-    "npm":  ">= 1.1.x"
+    "node": ">= 0.8.x"
   }
 }
 

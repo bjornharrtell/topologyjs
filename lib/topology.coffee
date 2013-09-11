@@ -1,5 +1,5 @@
 
-Face = requires("face")
+Face = require("./face")
 
 class Topology
     constructor: ->
