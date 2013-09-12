@@ -1,3 +1,3 @@
 
 class TopoGeometry
-    constructor: ->
+  constructor: ->

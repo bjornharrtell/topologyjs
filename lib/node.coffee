@@ -1,4 +1,4 @@
 
 class Node
-    constructor: ->
+  constructor: ->
     

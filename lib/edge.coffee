@@ -1,4 +1,5 @@
 
 class Edge
-    constructor: ->
-    
+  constructor: ->
+   
+module.exports = Edge

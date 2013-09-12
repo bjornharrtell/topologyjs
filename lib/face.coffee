@@ -1,5 +1,5 @@
 
 class Face
-    constructor: ->
+  constructor: ->
 
 module.exports = Face
